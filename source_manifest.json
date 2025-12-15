@@ -1,0 +1,9 @@
+    [
+      {
+        "name": "GreeterSource",
+        "version": "1.0",
+        "description": "Zdrojový kód pro zdravící modul.",
+        "url": "https://raw.githubusercontent.com/Eppassss/EppassUI-Modules/main/sources/GreeterSource.kt"
+      }
+    ]
+    
