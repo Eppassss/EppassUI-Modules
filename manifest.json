@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ExternalGreeterModule_v1.0",
+    "version": "1.0",
+    "description": "Modul, který přidává nové způsoby pozdravu.",
+    "author": "Eppass",
+    "url": "https://raw.githubusercontent.com/VASE_JMENO/VASE_REPO/main/modules/greeter_module.dex"
+  },
+  {
+    "name": "AdvancedMathModule_v1.2",
+    "version": "1.2",
+    "description": "Rozšiřuje kalkulačku o goniometrické funkce a konstanty.",
+    "author": "Eppass",
+    "url": "https://raw.githubusercontent.com/VASE_JMENO/VASE_REPO/main/modules/advanced_math_module.dex"
+  }
+]
